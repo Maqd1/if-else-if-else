@@ -61,4 +61,3 @@ if (value < 10) {
 }
 
 console.log("Result:", result);
-
